@@ -1,0 +1,3 @@
+[submodule "LexerLibrary"]
+	path = LexerLibrary
+	url = https://github.com/Relz/LexerLibrary

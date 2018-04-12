@@ -5,6 +5,6 @@ SET(CMAKE_CXX_STANDARD 17)
 
 ADD_EXECUTABLE(TokensVisualizer main.cpp)
 
-ADD_SUBDIRECTORY(Lexer)
+ADD_SUBDIRECTORY(LexerLibrary)
 
-TARGET_LINK_LIBRARIES(TokensVisualizer Lexer)
+TARGET_LINK_LIBRARIES(TokensVisualizer LexerLibrary)
