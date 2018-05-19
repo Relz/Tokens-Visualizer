@@ -1,5 +1,5 @@
 #include "LexerLibrary/Lexer.h"
-#include "LexerLibrary/Token/TokenInformation/TokenInformation.h"
+#include "LexerLibrary/TokenLibrary/TokenInformation/TokenInformation.h"
 #include <iostream>
 
 #include <string>
